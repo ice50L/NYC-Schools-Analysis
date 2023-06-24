@@ -5,6 +5,7 @@
 New York City education can be one of the most prestigious in the country in terms of high schools, such as one of the most known schools, Stuyvesant high school and Townsend Harris. However, from these standout schools known for their prestige, there are some schools in New York that do not fare as well. In this project, the main goals of the analysis is to show the average SAT scores for each school, the gender/race ratios per school compared to the SAT scores, etc. Some in-depth looks in the analysis are based on the top 10 schools in NYC based on the average SAT score and the individual critical reading, math, and writing skills. The data was sourced from: https://data.world/dataquest/nyc-schools-data, which contains all of New York City's education data in 2015-2016. 
 
 ## Questions:
+
 - Which schools has the highest overall average SAT score?
 - Is there a race trend for the top schools in NYC?
 - What are the boroughs of the top schools?
@@ -12,6 +13,7 @@ New York City education can be one of the most prestigious in the country in ter
 
 
 ## Findings:
+
 ![image](https://github.com/ice50L/NYC-Schools-Analysis/assets/115594312/70673002-f436-4fff-8e9a-1d108a0f7782)
 
 The top 10 schools and their corresponding boroughs. The barplot shows that Manhattan has the most schools that have the highest SAT score (4), followed by the Bronx and Queens with 2 schools each. 
@@ -41,3 +43,10 @@ The regression plots show that the average class size and the average SAT score 
 ![image](https://github.com/ice50L/NYC-Schools-Analysis/assets/115594312/a718f8d9-c238-4938-aae2-d2e7830a914c)
 
 From the distribution plot, there appears to be about a normal distribution for both the SAT math and critical reading section. The average for both critical reading and math are about the same at around 400-450, while the math section having a larger right skew in score distribution, which means more people perform better on the math section compared to the critical reading section of the SAT. 
+
+## Conclusion:
+
+- Stuyvesant High School has the highest average SAT score out of any New York City schools. Stuyvesant High School has an average score of 2096.
+- There is a very clear trend in race ratios within the top 10 NYC schools, it appears that Asian and White students have the highest school attendance percentage for the schools.
+- Manhattan has the highest amount of "top schools" in terms of average SAT score, with 4 in the top 10.
+- Overall, the math section of the SAT has a higher average score compared to the critical reading, despite both following the normal distribution.
