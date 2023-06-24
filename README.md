@@ -3,6 +3,7 @@
 ## Introduction: 
 
 New York City education can be one of the most prestigious in the country in terms of high schools, such as one of the most known schools, Stuyvesant high school and Townsend Harris. However, from these standout schools known for their prestige, there are some schools in New York that do not fare as well. In this project, the main goals of the analysis is to show the average SAT scores for each school, the gender/race ratios per school compared to the SAT scores, etc. Some in-depth looks in the analysis are based on the top 10 schools in NYC based on the average SAT score and the individual critical reading, math, and writing skills. The data was sourced from: https://data.world/dataquest/nyc-schools-data, which contains all of New York City's education data in 2015-2016. 
+Link to Jupyter Notebook project: https://github.com/ice50L/NYC-Schools-Analysis/blob/main/TOP%20NYC%20SCHOOLS%20ANALYSIS.ipynb
 
 ## Questions:
 
